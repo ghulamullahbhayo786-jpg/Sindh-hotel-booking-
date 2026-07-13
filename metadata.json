@@ -1,0 +1,6 @@
+{
+  "name": "Sindh Hotel Booking",
+  "description": "A luxury bilingual hotel booking platform for Khairpur and Sukkur with integrated restaurant ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
